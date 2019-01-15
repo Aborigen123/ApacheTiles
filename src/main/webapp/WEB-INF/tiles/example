@@ -1,0 +1,1 @@
+<jsp:include page="/WEB-INF/fragments/css-include.jsp"> приклад підключення css файлу (файл- повинен називатися ресурси і бути в середині webapp і шлях буде починатися від webapp) до класу classic.jsp 
